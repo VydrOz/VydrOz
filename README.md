@@ -6,7 +6,7 @@
 
 ### My projects 
 * 🤖 [Risibot](https://github.com/VydrOz/RisiBot)
-  <i>my personal discord bot to discover how does it work</i>
+  <br><i>my personal discord bot to discover how does it work</i>
 
 ___
 
