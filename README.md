@@ -1,7 +1,5 @@
 ### Hi 👋
 
-https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react
-
 <a href="https://github.com/VydrOz" title="Github PR Review">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react" />
 </a>
