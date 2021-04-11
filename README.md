@@ -1,13 +1,14 @@
-### Hi 👋
+## Hi 👋 Welcome to my Github 🧙‍♂️
 
 <a href="https://github.com/VydrOz" title="Github PR Review">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react" />
 </a>
 
-### Welcome to my Github 🧙‍♂️
-
+### My projects 
 * 🤖 [Risibot](https://github.com/VydrOz/RisiBot)
+  > my personal discord bot to discover how does it work
 
+### Other Links
 ___
 
 <a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
