@@ -8,7 +8,6 @@
 * 🤖 [Risibot](https://github.com/VydrOz/RisiBot)
   > my personal discord bot to discover how does it work
 
-### Other Links
 ___
 
 <a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
