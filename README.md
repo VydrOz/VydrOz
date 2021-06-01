@@ -4,16 +4,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react" />
 </a>
 
-### My projects 
+### Projects
 * 🤖 [Risibot](https://github.com/VydrOz/RisiBot)
   <br><i>my personal discord bot to discover how does it work</i>
 
 ___
 
 <a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
-  <img border="0" title="Github | Vydroz" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36">
-</a>
-
-<a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
-  <img border="0" title="Code Wars | Vydroz" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" width="36" height="36">
+  <img border="0" title="Code Wars | Vydroz" src="https://www.codewars.com/users/VydrOz/badges/large">
 </a>
