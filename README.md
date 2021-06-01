@@ -14,11 +14,6 @@ ___
 
 ## 📜 Projects
 
-<!-- 
-my personal discord bot to discover how does it work
-&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false
--->
-
 [![Risibot](https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false)](https://github.com/VydrOz/Risibot)
 
 
