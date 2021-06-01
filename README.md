@@ -19,9 +19,8 @@ ___
 
 ## 📈 Statistics
 
-[![VydrOz's Github](https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![VydrOz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![VydrOz's Github](https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![VydrOz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔗 Other links
