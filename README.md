@@ -14,16 +14,22 @@ ___
 
 ## 📜 Projects
 
-[![Risibot](https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false)](https://github.com/VydrOz/Risibot)
-
+<a href="https://github.com/VydrOz/Risibot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
+</a>
 
 ## 📈 Statistics
 
-[![VydrOz's Github](https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![VydrOz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true" alt="VydrOz's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact" alt="VydrOz's top languages" />
+</a>
 
 
 ## 🔗 Other links
 <a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
-  <img border="0" title="Code Wars | Vydroz" src="https://www.codewars.com/users/VydrOz/badges/large">
+  <!-- choose different sizes large/small/micro -->
+  <img border="0" title="Code Wars | Vydroz" src="https://www.codewars.com/users/VydrOz/badges/small">
 </a>
