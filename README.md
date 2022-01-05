@@ -17,6 +17,9 @@ ___
 <a href="https://github.com/VydrOz/Risibot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
 </a>
+<a href="https://github.com/VydrOz/Risibot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Javascript-Calculator&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
+</a>
 
 ## 📈 Statistics
 
