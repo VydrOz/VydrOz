@@ -17,7 +17,7 @@ ___
 <a href="https://github.com/VydrOz/Risibot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
 </a>
-<a href="https://github.com/VydrOz/Risibot">
+<a href="https://github.com/VydrOz/Javascript-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Javascript-Calculator&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
 </a>
 
@@ -32,10 +32,10 @@ ___
 
 
 ## 🔗 Other links
-<a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;" font-size= "0">
+<a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none; font-size:0px" >
   <img border="0" width="40px" title="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg">
 </a>
 
-<a href="https://codepen.io/vydroz" style="text-decoration: none;" font-size="0">
+<a href="https://codepen.io/vydroz" style="text-decoration: none; font-size:0px" >
   <img border="0" width="40px" title="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png">
 </a>
