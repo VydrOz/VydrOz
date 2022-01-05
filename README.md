@@ -29,7 +29,10 @@ ___
 
 
 ## 🔗 Other links
-<a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;">
-  <!-- choose different sizes large/small/micro -->
-  <img border="0" title="Code Wars | Vydroz" src="https://www.codewars.com/users/VydrOz/badges/small">
+<a href="https://www.codewars.com/users/VydrOz" style="text-decoration: none;" font-size= "0">
+  <img border="0" width="40px" title="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg">
+</a>
+
+<a href="https://codepen.io/vydroz" style="text-decoration: none;" font-size="0">
+  <img border="0" width="40px" title="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png">
 </a>
