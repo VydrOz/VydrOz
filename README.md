@@ -37,5 +37,5 @@ ___
 </a>
 
 <a href="https://codepen.io/vydroz" style="text-decoration: none; font-size:0px" >
-  <img border="0" width="40px" title="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_125,h_125/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png">
+  <img border="0" width="40px" title="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_40,h_40/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png">
 </a>
