@@ -17,11 +17,14 @@ ___
 <a href="https://github.com/VydrOz/Risibot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot"/>
 </a>
-<a href="https://github.com/VydrOz/Javascript-Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Javascript-Calculator&theme=react&hide_border=true&show_icons=false" alt="Javascript Calculator"/>
-</a>
 <a href="https://github.com/VydrOz/Renaming-files-correctly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="Renaming files correctly"/>
+</a>
+<a href="https://github.com/VydrOz/CalculatorJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS"/>
+</a>
+<a href="https://github.com/VydrOz/SnakeJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=SnakeJS&theme=react&hide_border=true&show_icons=false" alt="SnakeJS"/>
 </a>
 
 ## 📈 Statistics
