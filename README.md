@@ -23,7 +23,6 @@ ___
 </div>
 
 ## 📈 Stats
-![](https://komarev.com/ghpvc/?username=VydrOz&color=blue&style=flat)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true" alt="VydrOz's github stats"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact" alt="VydrOz's top languages"/></a>
