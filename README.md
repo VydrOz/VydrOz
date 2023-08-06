@@ -13,13 +13,19 @@
 
 ___
 
-## 📜 Repos
+## 🗃 Repos
 
 <div align="left">
   <a href="https://github.com/VydrOz/CalculatorJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
   <a href="https://github.com/VydrOz/SnakeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=SnakeJS&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
   <a href="https://github.com/VydrOz/Risibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
   <a href="https://github.com/VydrOz/Renaming-files-correctly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="Renaming files correctly" /></a>
+</div>
+
+## 📄 GitHub Gist
+
+<div align="left">
+  <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://gists-readme.yizack.com/api/pin?user=VydrOz&id=550686bbd0f57fde35974922554cd861&theme=dark" alt="DARQ scripts" /></a>
 </div>
 
 ## 📈 Stats
@@ -29,6 +35,7 @@ ___
 
 ## 🔗 Other links
 <div align="left">
+  <a href="https://gist.github.com/VydrOz"><img border="0" width="40px" alt="GitHub Gist | VydrOz" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/gist-512.png"/></a>
   <a href="https://www.codewars.com/users/VydrOz"><img border="0" width="40px" alt="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg"/></a>
   <a href="https://codepen.io/vydroz"><img border="0" width="40px" alt="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_40,h_40/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png"/></a>
 </div>
