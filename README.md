@@ -30,7 +30,7 @@ ___
 
 ## 📈 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true" alt="VydrOz's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="VydrOz's github stats"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact" alt="VydrOz's top languages"/></a>
 
 ## 🔗 Other links
