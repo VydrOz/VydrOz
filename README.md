@@ -13,7 +13,7 @@
 
 ___
 
-## 🗃 Repos
+## 🗃 Projects
 
 <div align="left">
   <a href="https://github.com/VydrOz/CalculatorJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
