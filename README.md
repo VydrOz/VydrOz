@@ -25,7 +25,7 @@ ___
 ## 📄 GitHub Gist
 
 <div align="left">
-  <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://gists-readme.yizack.com/api/pin?user=VydrOz&id=550686bbd0f57fde35974922554cd861&theme=dark" alt="DARQ scripts" /></a>
+  <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://github-readme-stats.vercel.app/api/gist?id=550686bbd0f57fde35974922554cd861&theme=react&hide_border=true" alt="DARQ AHK Scripts" /></a>
 </div>
 
 ## 📈 Stats
