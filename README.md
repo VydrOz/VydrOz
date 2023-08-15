@@ -35,7 +35,6 @@ ___
 
 ## 🔗 Other links
 <div align="left">
-  <a href="https://gist.github.com/VydrOz"><img border="0" width="40px" alt="GitHub Gist | VydrOz" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/gist-512.png"/></a>
   <a href="https://www.codewars.com/users/VydrOz"><img border="0" width="40px" alt="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg"/></a>
-  <a href="https://codepen.io/vydroz"><img border="0" width="40px" alt="CodePen | Vydroz" src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_40,h_40/f_auto,q_auto/v1637703545/Button-Fill-White-Small.png"/></a>
+  <a href="https://codepen.io/vydroz"><img border="0"  width="40px" alt="CodePen | Vydroz" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/></a>
 </div>
