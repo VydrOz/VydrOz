@@ -22,7 +22,7 @@ ___
   <a href="https://github.com/VydrOz/renaming-files-correctly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
 </div>
 
-## 📄 GitHub Gist
+## 📘 GitHub Gist
 
 <div align="left">
   <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://github-readme-stats.vercel.app/api/gist?id=550686bbd0f57fde35974922554cd861&theme=react&hide_border=true" alt="DARQ AHK Scripts" /></a>
