@@ -36,6 +36,9 @@ ___
 
 ## 🔗 Other links
 <div align="left">
+  
   <a href="https://www.codewars.com/users/VydrOz"><img border="0" width="40px" alt="Code Wars | Vydroz" src="https://docs.codewars.com/logo.svg"/></a>
   <a href="https://codepen.io/vydroz"><img border="0"  width="40px" alt="CodePen | Vydroz" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-64.png"/></a>
+  <a href="https://www.codingame.com/profile/1a03ac319d1a9150f916410b43b1aef02715243"><img border="0"  width="40px" alt="Coding Game | Vydroz" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg"/></a>
+  
 </div>
