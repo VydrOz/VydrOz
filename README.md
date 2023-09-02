@@ -18,9 +18,9 @@ ___
 <div align="left">
   <a href="https://github.com/VydrOz/CalculatorJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
   <a href="https://github.com/VydrOz/SnakeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=SnakeJS&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
-  <a href="https://github.com/VydrOz/Risibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
-  <a href="https://github.com/VydrOz/renaming-files-correctly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
   <a href="https://github.com/VydrOz/conway-sequence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=conway-sequence&theme=react&hide_border=true&show_icons=false" alt="conway sequence" /></a>
+  <a href="https://github.com/VydrOz/renaming-files-correctly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
+  <a href="https://github.com/VydrOz/Risibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
 </div>
 
 ## 📘 GitHub Gist
