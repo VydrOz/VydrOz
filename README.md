@@ -16,23 +16,23 @@ ___
 ## 🗃 Projects
 
 <div align="left">
-  <a href="https://github.com/VydrOz/CalculatorJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
-  <a href="https://github.com/VydrOz/SnakeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=SnakeJS&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
-  <a href="https://github.com/VydrOz/conway-sequence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=conway-sequence&theme=react&hide_border=true&show_icons=false" alt="conway sequence" /></a>
-  <a href="https://github.com/VydrOz/renaming-files-correctly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
-  <a href="https://github.com/VydrOz/Risibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
+  <a href="https://github.com/VydrOz/CalculatorJS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=VydrOz&repo=CalculatorJS&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
+  <a href="https://github.com/VydrOz/SnakeJS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=VydrOz&repo=SnakeJS&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
+  <a href="https://github.com/VydrOz/conway-sequence"><img src="https://github-stats-extended.vercel.app/api/pin/?username=VydrOz&repo=conway-sequence&theme=react&hide_border=true&show_icons=false" alt="conway sequence" /></a>
+  <a href="https://github.com/VydrOz/renaming-files-correctly"><img src="https://github-stats-extended.vercel.app/api/pin/?username=VydrOz&repo=renaming-files-correctly&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
+  <a href="https://github.com/VydrOz/Risibot"><img src="https://github-stats-extended.vercel.app/api/pin/?username=VydrOz&repo=Risibot&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
 </div>
 
 ## 📘 GitHub Gist
 
 <div align="left">
-  <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://github-readme-stats.vercel.app/api/gist?id=550686bbd0f57fde35974922554cd861&theme=react&hide_border=true" alt="DARQ AHK Scripts" /></a>
+  <a href="https://gist.github.com/VydrOz/550686bbd0f57fde35974922554cd861"><img src="https://github-stats-extended.vercel.app/api/gist?id=550686bbd0f57fde35974922554cd861&theme=react&hide_border=true" alt="DARQ AHK Scripts" /></a>
 </div>
 
 ## 📈 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VydrOz&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="VydrOz's github stats"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact" alt="VydrOz's top languages"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=VydrOz&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="VydrOz's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VydrOz&theme=react&hide_border=true&layout=compact" alt="VydrOz's top languages"/></a>
 
 ## 🔗 Other links
 <div align="left">
